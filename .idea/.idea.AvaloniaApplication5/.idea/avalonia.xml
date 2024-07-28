@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaApplication5/AvaloniaApplication5/App.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Browser/AvaloniaApplication5.Browser.csproj" />
+        <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MainView.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />
+        <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MainWindow.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />
+        <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MusicStoreWindow.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
