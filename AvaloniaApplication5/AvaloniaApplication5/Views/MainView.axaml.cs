@@ -16,6 +16,5 @@ public partial class MainView : UserControl
         var a = 5;
         var b = 6;
         var c = a + b;
-        
     }
 }

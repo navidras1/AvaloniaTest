@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="AvaloniaApplication5/AvaloniaApplication5/App.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Browser/AvaloniaApplication5.Browser.csproj" />
+        <entry key="AvaloniaApplication5/AvaloniaApplication5/Icons.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Browser/AvaloniaApplication5.Browser.csproj" />
         <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MainView.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />
         <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MainWindow.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />
         <entry key="AvaloniaApplication5/AvaloniaApplication5/Views/MusicStoreWindow.axaml" value="AvaloniaApplication5/AvaloniaApplication5.Desktop/AvaloniaApplication5.Desktop.csproj" />

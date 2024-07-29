@@ -12,6 +12,19 @@
     <vm:MainViewModel />
   </Design.DataContext>
 
-  <!-- <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/> -->
-  <Button Name="btn1" Click="Btn1_OnClick">My Button</Button>
+    <Panel>
+        <ExperimentalAcrylicBorder IsHitTestVisible="False">
+            <ExperimentalAcrylicBorder.Material>
+                <ExperimentalAcrylicMaterial
+                    BackgroundSource="Digger"
+                    TintColor="Black"
+                    TintOpacity="1"
+                    MaterialOpacity="0.65" />
+            </ExperimentalAcrylicBorder.Material>
+        </ExperimentalAcrylicBorder>
+
+        <Button  HorizontalAlignment="Right" VerticalAlignment="Top">
+            <PathIcon Data="{StaticResource gavel_regular}"></PathIcon>
+        </Button>
+    </Panel>
 </UserControl>

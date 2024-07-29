@@ -8,6 +8,9 @@
         x:Class="AvaloniaApplication5.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         Title="AvaloniaApplication"
+        TransparencyLevelHint="AcrylicBlur"
+        Background="Transparent"
+        
         >
         <views:MainView />
 </Window>
